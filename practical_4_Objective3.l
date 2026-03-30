@@ -22,6 +22,6 @@ int main() {
     yylex();
     printf("\nCharacters : %d\nWords : %d\nLines : %d\n", c, w, l);
     fclose(f);
-    printf("23ce098");
+    printf("23ce015");
     return 0;
 }
