@@ -15,6 +15,6 @@ int yywrap() {
 int main() {
     printf("Enter the text: ");
     yylex();
-    printf("23ce098");
+    printf("23ce015");
     return 0;
 }
